@@ -29,10 +29,6 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer based in 
 - Educational or social-impact tech tools  
 - Tech community building in Africa  
 
-## 📫 How to Reach Me
-- Email: kamohelomokhethi137@gmail.com  
-- Portfolio: [kamohelomokhethi.github.io/kamohelomokhethi](https://kamohelomokhethi.github.io/kamohelomokhethi/)  
-- LinkedIn: [linkedin.com/in/kamohelo-mokhethi](https://linkedin.com/in/kamohelo-mokhethi) *(optional: add if you have one)*
 
 ## 😄 Pronouns
 He/Him
