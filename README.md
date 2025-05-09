@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate and versatile developer based in Lesotho, focused on building impactful digital solutions through clean code and creative problem-solving.
 
+## 🎓 Education
+- 📚 Second-year Software Engineering student  
+- 🎓 Limkokwing University of Creative Technology, Lesotho  
+- 🧠 Focus areas: Full-stack development, algorithms, cybersecurity, and software design
+
 ## 👀 Interests
 - Full-stack web development  
 - Cybersecurity & ethical hacking  
@@ -28,6 +33,9 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer based in 
 - Full-stack web apps (MERN stack)  
 - Educational or social-impact tech tools  
 - Tech community building in Africa  
+
+## 📫 How to Reach Me
+- Email: kamohelomokhethi25@gmail.com  
 
 
 ## 😄 Pronouns
