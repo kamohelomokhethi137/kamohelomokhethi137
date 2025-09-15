@@ -1,47 +1,47 @@
-# 👋 Hi there, I'm Kamohélo Mokhethi (@kamohelomokhethi137)
+#  Hi there, I'm Kamohélo Mokhethi (@kamohelomokhethi137)
 
 Welcome to my GitHub profile! I'm a passionate and versatile developer based in Lesotho, focused on building impactful digital solutions through clean code and creative problem-solving.
 
-## 🎓 Education
-- 📚 Second-year Software Engineering student  
-- 🎓 Limkokwing University of Creative Technology, Lesotho  
-- 🧠 Focus areas: Full-stack development, algorithms, cybersecurity, and software design
+##  Education
+-  Third-year Software Engineering student  
+- Limkokwing University of Creative Technology, Lesotho  
+- Focus areas: Full-stack development, algorithms, cybersecurity, and software design
 
-## 👀 Interests
+## Interests
 - Full-stack web development  
 - Cybersecurity & ethical hacking  
 - Competitive programming  
 - UI/UX design  
 - Creative tech (video editing, animation, graphics)
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced React patterns  
 - MongoDB & backend integration  
 - Cloud deployment with Render & Vercel  
 - RESTful APIs & microservices architecture  
 - Security best practices in web apps
 
-## 💼 Experience
-- 👨‍💻 Languages: HTML, CSS, JavaScript, React, Tailwind CSS, Java, Python, C++  
+## Experience
+- Languages: HTML, CSS, JavaScript, React, Tailwind CSS, Java, Python, C++  
 - 🛠 Tools: Git, GitHub, VS Code, Figma, Adobe Suite, Postman  
-- 🧠 Participated in multiple hackathons including:  
-  - 🇱🇸 National Hackathon (Lesotho) – Tackled real-world tech challenges  
-  - 🔐 PicoCTF (2023–2024) – Practiced cybersecurity and CTF challenges
+- Participated in multiple hackathons including:  
+  - National Hackathon (Lesotho) – Tackled real-world tech challenges  
+  - PicoCTF (2023–2024) – Practiced cybersecurity and CTF challenges
 
-## 🤝 Looking to Collaborate On
+## Looking to Collaborate On
 - Open source React projects  
 - Full-stack web apps (MERN stack)  
 - Educational or social-impact tech tools  
 - Tech community building in Africa  
 
-## 📫 How to Reach Me
+## How to Reach Me
 - Email: kamohelomokhethi25@gmail.com  
 
 
-## 😄 Pronouns
+## Pronouns
 He/Him
 
-## ⚡ Fun Fact
+## Fun Fact
 When I'm not coding or editing videos, I'm probably deep-diving into cybersecurity puzzles or designing logos with Adobe Illustrator.
 
 ---
