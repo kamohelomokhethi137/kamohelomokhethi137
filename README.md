@@ -46,12 +46,6 @@ Focus: Full-Stack Development · Algorithms · Cybersecurity · Software Archite
 - **PicoCTF 2023 – 2025** – Consistent participant, ranked in top percentiles globally
 - **TryHackMe & HackTheBox** – Regular CTF player, sharpening offensive & defensive security skills
 
-### 🔥 Currently Working On
-- Advanced React patterns & performance optimization
-- Secure MERN-stack applications with OWASP best practices
-- Deploying production-grade apps on Vercel & Render
-- Building my personal portfolio & open-source contributions
-
 ### 🤝 Open to Collaborate On
 - MERN / Next.js full-stack projects
 - Open-source tools for education & social impact
