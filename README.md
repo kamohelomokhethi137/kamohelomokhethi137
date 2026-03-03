@@ -19,17 +19,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 Passionate **Software Engineering student** and **self-taught creative developer** from Lesotho, building secure, scalable, and visually stunning web applications. I love blending clean code with strong design and real-world impact.
 
 <img align="right" width="380" src="https://github.com/kamohelomokhethi137/kamohelomokhethi137/blob/main/assets/dev-illustration.svg?raw=true" alt="Developer illustration" />
 
-### 🎓 Education
+###  Education
 **BSc Software Engineering (3rd Year)**  
 *Limkokwing University of Creative Technology – Lesotho*  
 Focus: Full-Stack Development · Algorithms · Cybersecurity · Software Architecture
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 | Category              | Technologies |
 |-----------------------|--------------|
@@ -39,20 +39,20 @@ Focus: Full-Stack Development · Algorithms · Cybersecurity · Software Archite
 | **Tools & Platforms** | Git · Docker · Vercel · Render · Postman · Figma · Adobe Suite |
 | **Currently Mastering**| Advanced React · Microservices · Cloud Security · DevOps Basics |
 
-### 🏆 Hackathons & CTFs (2023 – 2025)
+###  Hackathons & CTFs (2023 – 2025)
 <img align="right" width="180" src="https://github.com/kamohelomokhethi137/kamohelomokhethi137/blob/main/assets/hackathon-badge.svg?raw=true" alt="Hackathon badge"/>
 
 - **National Hackathon Lesotho** – Solved real-world challenges with innovative tech solutions
 - **PicoCTF 2023 – 2025** – Consistent participant, ranked in top percentiles globally
 - **TryHackMe & HackTheBox** – Regular CTF player, sharpening offensive & defensive security skills
 
-### 🤝 Open to Collaborate On
+###  Open to Collaborate On
 - MERN / Next.js full-stack projects
 - Open-source tools for education & social impact
 - Cybersecurity-focused web apps
 - African tech community initiatives
 
-### 📬 Let’s Connect
+###  Let’s Connect
 <p>
   <a href="mailto:kamohelomokhethi25@gmail.com">
     <img src="https://img.shields.io/badge/kamohelomokhethi25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -62,7 +62,7 @@ Focus: Full-Stack Development · Algorithms · Cybersecurity · Software Archite
 **Pronouns:** He/Him  
 **Location:** Maseru, Lesotho 🇱🇸
 
-### 🎨 Fun Fact
+### Fun Fact
 When I’m not coding or breaking into CTFs, you’ll find me designing logos in Illustrator, editing cinematic videos, or hunting for the perfect UI animation.
 
 <img src="https://komarev.com/ghpvc/?username=kamohelomokhethi137&style=for-the-badge&color=10B981" alt="Profile views"/>
