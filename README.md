@@ -1,7 +1,7 @@
-<img src="https://github.com/kamohelomokhethi137/kamohelomokhethi137/blob/main/assets/banner.png?raw=true" alt="Kamohélo Mokhethi - Banner" style="width:100%; max-height:320px; object-fit:cover; border-radius:16px;"/>
+**<img src="https://github.com/kamohelomokhethi137/kamohelomokhethi137/blob/main/assets/banner.png?raw=true" alt="Kamohélo Mokhethi - Banner" style="width:100%; max-height:320px; object-fit:cover; border-radius:16px;"/>
 <div align="center">
   <h1>Kamohélo Mokhethi</h1>
-  <h3>Full-Stack Developer &nbsp;•&nbsp; Cybersecurity Enthusiast &nbsp;•&nbsp; Creative Technologist</h3>
+  <h3>Full-Stack Developer &nbsp;•&nbsp; Cybersecurity EnAthusiast &nbsp;•&nbsp; Creative Technologist</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=10B981&center=true&vCenter=true&width=620&lines=Building+modern+web+experiences;Crafting+secure+and+scalable+solutions;From+Lesotho+to+global+impact" alt="Typing SVG" />
 
@@ -74,3 +74,4 @@ Focus areas: Full-Stack Development, Algorithms & Data Structures, Cybersecurity
 *“Well-crafted code, like great design, is both functional and elegant.”*
 
 <img src="https://komarev.com/ghpvc/?username=kamohelomokhethi137&style=for-the-badge&color=10B981" alt="Profile views"/>
+**
