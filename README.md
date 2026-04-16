@@ -25,7 +25,7 @@ Focused on building **secure, scalable, and high-performance applications** with
 - Expanding into **bug bounty and penetration testing**
 - Strong foundation in both **engineering and digital content creation**
 
-<img align="right" width="360" src="https://github.com/kamohelomokhethi137/kamohelomokhethi137/blob/main/assets/dev-illustration.svg?raw=true" alt="dev"/>
+<img align="right" width="360" src="https://github.com/kamohelomokhethi137/kamohelomokhethi137/blob/main/assets/profile.jpg?raw=true" alt="dev"/>
 
 ---
 
