@@ -32,7 +32,7 @@ Focused on building **secure, scalable, and high-performance applications** with
 ## Core Stack
 
 ### Languages
-- C++ · Java · Python · JavaScript
+- · Python · JavaScript
 
 ### Frontend
 <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react"/>
@@ -53,22 +53,6 @@ Focused on building **secure, scalable, and high-performance applications** with
 <img src="https://img.shields.io/badge/3ds_Max-000000?style=flat&logo=autodesk"/>
 
 ---
-
-## Cybersecurity Focus
-- Web vulnerabilities (OWASP Top 10)
-- Bug bounty methodology
-- CTF-based learning (picoCTF, HTB, TryHackMe)
-- Input validation, auth flaws, IDOR, XSS, SQLi
-
----
-
-## Current Direction
-- Offensive security (manual testing > tool dependency)
-- Secure backend architecture (Node.js focus)
-- Advanced UI engineering (React + performance optimization)
-
----
-
 ## Collaboration Scope
 - Secure web applications
 - Full-stack systems (React + Node)
